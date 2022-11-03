@@ -1,0 +1,6 @@
+html, body {
+  background-color: rgba(0, 0, 0, 0);
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
